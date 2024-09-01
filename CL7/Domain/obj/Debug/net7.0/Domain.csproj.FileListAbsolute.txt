@@ -1,0 +1,12 @@
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\bin\Debug\net7.0\Domain.dll
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.dll
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\ref\Domain.dll
+D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
