@@ -11,7 +11,7 @@ public partial record PhoneNumber
     private PhoneNumber(string value) => Value = value;
 
     public static PhoneNumber? Create(string value){
-        if(!string.IsNullOrEmpty(value) || !PhoneNumberRegex().IsMatch(value) || value.Length != DefaultLenght){
+        if(string.IsNullOrEmpty(value) || !PhoneNumberRegex().IsMatch(value) ||value.Length != DefaultLenght){
             return null;
         }
         return new PhoneNumber(value);

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "8nzyL0IiUSQ=",
+  "dgSpecHash": "W7M3pVulGyn0DrdGmP/jPh29qH4BKVWx5Zr+5mjQFbZ+nVS0Z2OP3vAVRyiUUzATH9v3hGsfVetI1oat8XMtqg==",
   "success": true,
-  "projectFilePath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Bro\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
-    "C:\\Users\\Bro\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Bro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\W10\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\W10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

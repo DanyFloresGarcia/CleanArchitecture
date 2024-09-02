@@ -10,3 +10,15 @@ D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\refint\Domain.d
 D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.pdb
 D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\ref\Domain.dll
 D:\Dany\GIT\ASP .NET CORE\CursoClean\CL7\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\bin\Debug\net7.0\Domain.dll
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\bin\Debug\net7.0\Domain.pdb
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\Domain.dll
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\Domain.pdb
+C:\ARCHIVOS\PROYECTO\CleanArchitecture\CL7\Domain\obj\Debug\net7.0\ref\Domain.dll

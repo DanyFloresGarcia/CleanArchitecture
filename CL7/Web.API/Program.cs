@@ -2,6 +2,7 @@ using Application;
 using Infrastructure;
 using Web.API;
 using Web.API.Extensions;
+using Web.API.Middlewares;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -20,9 +21,13 @@ if (app.Environment.IsDevelopment())
     app.ApplyMigrations();
 }
 
+app.UseExceptionHandler("/error");
+
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseMiddleware<GloblalExceptionHandlingMiddleware>();
 
 app.MapControllers();
 

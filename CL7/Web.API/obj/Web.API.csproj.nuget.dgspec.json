@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Web.API\\Web.API.csproj": {}
+    "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj": {}
   },
   "projects": {
-    "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\Application.csproj": {
+    "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\Application.csproj",
+        "projectUniqueName": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Bro\\.nuget\\packages\\",
-        "outputPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\obj\\",
+        "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj"
+              "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj"
               }
             }
           }
@@ -42,17 +36,16 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.2, )"
@@ -86,32 +79,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj": {
+    "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Bro\\.nuget\\packages\\",
-        "outputPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\obj\\",
+        "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -124,17 +111,16 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.0, )"
@@ -156,43 +142,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Bro\\.nuget\\packages\\",
-        "outputPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Infrastructure\\obj\\",
+        "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\Application.csproj": {
-                "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\Application.csproj"
+              "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj": {
+                "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj"
               },
-              "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj": {
-                "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Domain\\Domain.csproj"
+              "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj"
               }
             }
           }
@@ -201,17 +181,18 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.4, )"
@@ -233,43 +214,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Web.API\\Web.API.csproj": {
+    "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Web.API\\Web.API.csproj",
+        "projectUniqueName": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
         "projectName": "Web.API",
-        "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Web.API\\Web.API.csproj",
-        "packagesPath": "C:\\Users\\Bro\\.nuget\\packages\\",
-        "outputPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Web.API\\obj\\",
+        "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
+        "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
+        "outputPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Bro\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\Application.csproj": {
-                "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Application\\Application.csproj"
+              "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj": {
+                "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj"
               },
-              "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\Dany\\GIT\\ASP .NET CORE\\CursoClean\\CL7\\Infrastructure\\Infrastructure.csproj"
+              "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -278,20 +253,23 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -317,7 +295,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
         }
       }
     }
