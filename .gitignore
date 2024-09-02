@@ -1,0 +1,56 @@
+# Archivos y carpetas generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el build
+bin/
+obj/
+
+# Archivos de configuración de la solución
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Archivos y carpetas relacionados con el sistema de paquetes de NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Archivos de configuración de usuario
+.vscode/
+.idea/
+*.suo
+
+# Archivos generados por herramientas de análisis
+*.log
+
+# Archivos de caché y temporales
+*.tmp
+*.swp
+*.log
+
+# Archivos de configuración de pruebas
+coverage/
+*.coverage
+*.coveragexml
+
+# Archivos generados por entornos de desarrollo específicos
+.vscode/
+.idea/
+*.code-workspace
+
+# Configuración del IDE
+.vs/
+*.ncb
+*.suo
+*.sln.docstates
+
+# Archivos de build específicos de Windows
+*.exe
+*.dll
+*.pdb
+
+# Archivos de configuración del entorno local
+.env
