@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tLH/Z+2ZA4LKbNHxaTgJovIhHqUYWkS0qJnOpf9w3R6fl0Y0w7ab/Rgq/D0GkS9vqccVBE/Qd9KdmiWqGwXdLg==",
+  "dgSpecHash": "JW8RRDQ5236AEOBJcHYnSPiV3dluqWaB3VM/PEHN8uEAlD1yzpWzhKqv6+4tNmgWj/rquD8jDP865uyYMGFjyw==",
   "success": true,
-  "projectFilePath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
+  "projectFilePath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

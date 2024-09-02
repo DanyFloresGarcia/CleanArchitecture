@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W7M3pVulGyn0DrdGmP/jPh29qH4BKVWx5Zr+5mjQFbZ+nVS0Z2OP3vAVRyiUUzATH9v3hGsfVetI1oat8XMtqg==",
+  "dgSpecHash": "Lo1MIeqprQDK5guzznADkzY20rhk2GrCdemJU8a5XdkRoq4oQ0wkgStwAxnkkeq9UnH1DO+kRQaAEbM2tYZuzw==",
   "success": true,
-  "projectFilePath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",

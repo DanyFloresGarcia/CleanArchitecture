@@ -4147,11 +4147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
+      "projectUniqueName": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
       "projectName": "Web.API",
-      "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
+      "projectPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-      "outputPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\obj\\",
+      "outputPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4166,11 +4166,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj": {
-              "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj"
+            "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj": {
+              "projectPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj"
             },
-            "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj"
+            "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

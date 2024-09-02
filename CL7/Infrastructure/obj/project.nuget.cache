@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2uIrGEOynK8jmYets0P9JR7hpLScB5rJo80tMp5WgJ/2GvXX9D2qT5gPeZUFH1atSz5PJ7MXA2g3WML+ENQIuA==",
+  "dgSpecHash": "i7g+tpuIB++/Yq+f2+o3mOZRNwmA2xUXqw9bY8j7z3BwlOnnG2azyy0HYr9oCfeZcJriYYG01mWfBVGysLZGlQ==",
   "success": true,
-  "projectFilePath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -752,11 +752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
+      "projectPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-      "outputPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\obj\\",
+      "outputPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -771,8 +771,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj"
+            "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj"
             }
           }
         }

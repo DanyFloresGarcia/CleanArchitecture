@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {}
+    "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {
+    "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
+        "projectPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\obj\\",
+        "outputPath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config"

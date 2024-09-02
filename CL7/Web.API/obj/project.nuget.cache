@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VfDOCK+kR1vezXSMiXML3OjCYwot1ECaTGvUiQKpoy26oZRzEBo4LsQh6u7LADHWZcFgl3eAq8IOa3s0VHJt/A==",
+  "dgSpecHash": "wZ520kiRYb8o4VhrlbRCF3ri2egpFTC8ZaH0h3fpuLqMfLhuuQ2G+IxcYp5bibj9S/5r3rD4L3Jjt/ezyKZx0Q==",
   "success": true,
-  "projectFilePath": "c:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
+  "projectFilePath": "C:\\ARCHIVOS\\PROYECTO\\CleanArchitecture\\CL7\\Web.API\\Web.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\W10\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\W10\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
